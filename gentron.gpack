@@ -2,11 +2,11 @@
     "DatabaseSources": [
         {
             "ActiveConnectionGroup": {
-                "ID": "016031b9-6a84-4b43-a809-ae637d73aaed"
+                "ID": "a0a97267-2bcb-422d-bead-a294e5ce9bd0"
             },
             "Script": {
                 "ID": "d0489586-8cd2-43bc-a159-75217587a5b1",
-                "Path": "C:\\Dev\\ORMAPIJS\\package\\DatabaseSchema.sql",
+                "Path": "C:\\Dev\\ORMAPIJS\\DatabaseSchema.sql",
                 "LastModified": "Thu Feb 07 2019"
             },
             "IsActive": true,

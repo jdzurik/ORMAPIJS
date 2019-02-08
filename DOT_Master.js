@@ -1,6 +1,6 @@
  
 [
-{{~it.CaUtil.TableList.TableInfo :value:index}}
+{{~it.Db.TableList.TableInfo :value:index}}
    
    ####_BOF_ filename=api_masterTemplateOutput{{=index}}.html #### 
   
