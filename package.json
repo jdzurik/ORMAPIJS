@@ -1,0 +1,13 @@
+{
+  "name": "ORMAPIJSPack",
+  "version": "0.0.1",
+  "description": "Gentron package for object Relational Maping - API's and javascript Libraries",
+  "dependencies": {
+    "dot": "^1.1.2",
+    "gentron": "0.0.70",
+    "ta-json": "^2.5.0",
+    "tsxml": "^0.1.0",
+    "x2js": "^3.2.3",
+    "xml2js": "^0.4.19"
+  }
+}

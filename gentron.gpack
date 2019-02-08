@@ -1,0 +1,67 @@
+{
+    "DatabaseSources": [
+        {
+            "ActiveConnectionGroup": {
+                "ID": "016031b9-6a84-4b43-a809-ae637d73aaed"
+            },
+            "Script": {
+                "ID": "d0489586-8cd2-43bc-a159-75217587a5b1",
+                "Path": "C:\\Dev\\ORMAPIJS\\package\\DatabaseSchema.sql",
+                "LastModified": "Thu Feb 07 2019"
+            },
+            "IsActive": true,
+            "Name": "CaUtil",
+            "ID": "f89cba17-5cfa-4374-ab0e-54b9798da69d"
+        }
+    ],
+    "Engines": [
+        {
+            "ActiveOutputPathGroup": {
+                "ID": "354ac6b2-1c95-49db-8689-488b937f7988"
+            },
+            "EngineCode": {
+                "ID": "75a231d6-f6a7-4d50-9a7e-797a01d702cc",
+                "Path": "C:\\Dev\\ORMAPIJS\\package\\DOT_engine.js",
+                "IncludeConsole": true,
+                "IncludeDirname": false,
+                "IncludeFilename": false,
+                "IncludeRequires": true,
+                "PackageList": [
+                    {
+                        "Delimeter": "'",
+                        "IsBuiltInNodeModule": false,
+                        "ModuleName": "dot",
+                        "RelativeModulePath": ""
+                    }
+                ],
+                "LastModified": "Thu Feb 07 2019"
+            },
+            "Templates": [
+                {
+                    "Name": "Master",
+                    "TemplateCode": {
+                        "ID": "1f8f17a0-f3cd-4a4f-b3e2-d898539ba7c7",
+                        "Path": "C:\\Dev\\ORMAPIJS\\package\\DOT_Master.js",
+                        "LastModified": "Thu Feb 07 2019"
+                    },
+                    "Type": 1,
+                    "ID": "2febfacd-4e8a-4c40-917d-084371dce377"
+                }
+            ],
+            "IsActive": true,
+            "Name": "ORM",
+            "ID": "60045aec-e77c-4cd1-a235-d25f17778ba6"
+        }
+    ],
+    "Environments": [
+        {
+            "IsActive": true,
+            "Name": "Dev",
+            "ID": "27786e8e-b08b-438f-ad12-8176af843184"
+        }
+    ],
+    "FileSources": [],
+    "HttpSources": [],
+    "PackageName": "ORMAPIJS",
+    "ReadMe": "Test"
+}
